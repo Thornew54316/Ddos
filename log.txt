@@ -1,0 +1,55 @@
+UserID: 1854133299 | Time: 2024-08-17 12:49:05.690146 | Command: /bgmi | Target: 2.202.36.168 | Port: 21543 | Time: 180
+Username: @Gurighs
+Target: 2.202.36.168
+Port: 21543
+Time: 180
+
+UserID: 1854133299 | Time: 2024-08-17 12:53:39.385022 | Command: /bgmi | Target: 20.235.95.37 | Port: 26460 | Time: 180
+Username: @Gurighs
+Target: 20.235.95.37
+Port: 26460
+Time: 180
+
+UserID: 1854133299 | Time: 2024-08-17 12:54:03.703307 | Command: /bgmi | Target: 20.235.95.37 | Port: 26460 | Time: 180
+UserID: 1854133299 | Time: 2024-08-18 08:38:46.075683 | Command: /bgmi | Target: 20.235.95.37 | Port: 26460 | Time: 180
+Username: @Gurighs
+Target: 20.235.95.37
+Port: 26460
+Time: 180
+
+UserID: 1854133299 | Time: 2024-08-18 09:03:54.992235 | Command: /bgmi | Target: 20.204.39.111 | Port: 17775 | Time: 180
+Username: @Gurighs
+Target: 20.204.39.111
+Port: 17775
+Time: 180
+
+UserID: 1854133299 | Time: 2024-08-18 09:07:03.853274 | Command: /bgmi | Target: 20.204.39.111 | Port: 17775 | Time: 50
+Username: @Gurighs
+Target: 20.204.39.111
+Port: 17775
+Time: 50
+
+UserID: 1854133299 | Time: 2024-08-18 09:08:06.763386 | Command: /bgmi | Target: 20.204.39.111 | Port: 17775 | Time: 30
+Username: @Gurighs
+Target: 20.204.39.111
+Port: 17775
+Time: 30
+
+UserID: 1854133299 | Time: 2024-08-18 09:08:39.685944 | Command: /bgmi | Target: 20.204.39.111 | Port: 17775 | Time: 70
+Username: @Gurighs
+Target: 20.204.39.111
+Port: 17775
+Time: 70
+
+UserID: 1854133299 | Time: 2024-08-18 09:10:07.688173 | Command: /bgmi | Target: 20.204.39.111 | Port: 17775 | Time: 30
+Username: @Gurighs
+Target: 20.204.39.111
+Port: 17775
+Time: 30
+
+UserID: 1854133299 | Time: 2024-08-18 09:41:09.567816 | Command: /bgmi | Target: 20.204.39.111 | Port: 17775 | Time: 30
+Username: @Gurighs
+Target: 20.204.39.111
+Port: 17775
+Time: 30
+
